@@ -4,21 +4,25 @@ import NewExpense from "./components/NewExpense/NewExpense";
 
 const DUMMY_EXPENSES = [
   {
+    id: 'e1',
     title: "Toilet Paper",
     amount: "94.12",
     date: new Date(2023, 0, 2),
   },
   {
+    id: 'e2',
     title: "Soap",
     amount: 3.5,
     date: new Date(2023, 0, 2),
   },
   {
+    id: 'e3',
     title: "Desinfectant",
     amount: 6,
     date: new Date(2023, 0, 2),
   },
   {
+    id: 'e4',
     title: "Garbage bag",
     amount: 16.72,
     date: new Date(2023, 0, 2),
